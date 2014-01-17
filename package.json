@@ -1,5 +1,5 @@
 {
-    "name": "part-aop",
+    "name": "aop-part",
     "description": "A simple AOP library using part.js",
     "keywords": [
         "aop",
